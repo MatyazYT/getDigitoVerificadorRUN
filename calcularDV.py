@@ -1,5 +1,3 @@
-import os
-
 rut = raw_input("Ingresa tu RUT sin el digito verificador: ")
 
 if len(rut) > 8 or len(rut) < 7:
